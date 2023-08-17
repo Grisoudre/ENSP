@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: Exercices
+      menu: 
+        - text: Game of Thrones
+        - text: Examen 2022
+          href: M2_ENSP_RAvance_22_guide_bis.html
